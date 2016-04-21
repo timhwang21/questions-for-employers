@@ -16,11 +16,14 @@ You don't need to pretend to interviewers that you're reciting everything from m
 ### Work related
 
 * **What role are you looking for me to fill?**
+  *  What are you hiring for / why are you hiring? (previous person promoted; previous person left; company growing)
+  *  **What are the job responsibilities like for this role?**
 * **What are the plans for your company in the next year?** (horizontal / vertical expansion, etc.)
 * How are teams structured? What is your team composition?
 * What is the collaboration culture like? (Pair programming, etc.)
 * What is the process for implementing new features? 
   * If an engineer comes up with an idea for a feature, who do they need to talk to, etc. to get it implemented?
+* What is the physical orientation of the office like? (open office, cubes, etc.)
 * What's your software development methodology?
 * What is your testing process? How do you track bugs and fix them?
   * How long does the test suite take to run?
@@ -36,14 +39,20 @@ You don't need to pretend to interviewers that you're reciting everything from m
 
 These questions should be asked to each interviewer as they are quite subjective. By sampling more people, you will get a more accurate picture.
 
+### Tech related
+
+* What's a new technology you guys are using that you're excited about?
+* What's a new features you guys are working on that you're excited about?
+
 ### Work related
 
+* **What is a skill you often wish new hires / interns were better at?**
 * What was the latest project you worked on?
 * What is your favorite part about working here?
-* What's the coolest feature [company] released recently?
 * (least favorite part of working here) If you can change one thing about the company, what would it be?
 * What is the norm for meetings? How many times per week? What do you talk about?
   * Do you feel they are productive?
+* What does your typical work day look like? (can determine structure vs. laissez faire environment)
 
 ### Life related
 
